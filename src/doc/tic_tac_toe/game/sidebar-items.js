@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["BOARD_SIZE",""]],"enum":[["MoveError",""],["Piece",""],["Winner",""]],"struct":[["Game",""]],"type":[["Tile",""],["Tiles",""]]};

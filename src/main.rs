@@ -1,3 +1,15 @@
+/// Mohammed Kashem
+/// Rust final project
+/// Rust tic tac toe is a classic two-player game where each player takes turns to place their symbol (an X or an O) in a 3x3 grid. 
+/// The player that succeeds in placing three of their symbols in a horizontal, vertical or diagonal row wins the game.
+/// The game can be played on a physical grid with X's and O's or digitally, using Rust code. The code for Rust tic tac toe 
+/// consists of a main function that calls a game loop, which handles player turns and game state. It also includes a draw_board 
+/// function that displays the game board and a winner_check function that determines if a player has won.
+/// The game loop handles all game logic, including taking turns, drawing the board, checking for a winner, and keeping track of game state. 
+/// The game loop will end when either a player wins or the board is filled without a winner, at which point the program will print the result.
+
+
+
 // This tells the Rust compiler that there is a module called "game" in a file called "game.rs"
 // Conventions like this make it really easy to write code fast. If you want to customize that
 // behaviour, Rust gives you the power to do that too.
